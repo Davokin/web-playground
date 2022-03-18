@@ -1,0 +1,9 @@
+<!-- Nav -->
+<nav id="nav">
+	<ul class="links">
+	<li class="active"><a href="index.html">Impressum</a></li>
+	<li><a href="javascript:history.back()">Zurück zur vorherigen Seite</a></li>
+	</ul>
+</nav>
+
+<!-- Funktioniert nicht nur in Chrome - Test zeigte auch dass das JS in Firefox ebenfalls funktioniert! -->
