@@ -1,4 +1,5 @@
 <!-- Benachrichtigung für kleine Displays und horizontal ausgerichtete Smartphones -->
+
 <div class="device-notification">
   <a class="device-notification--logo" href="https://70insign.com/">
     <img src="assets/img/logo.png" alt="70insign">
@@ -6,4 +7,5 @@
   </a>
   <p class="device-notification--message">70insign hat so viel zu bieten, dass wir Sie bitten müssen, Ihr Gerät auf Hochformat einzustellen oder einen größeren Bildschirm zu wählen. Sie werden nicht enttäuscht sein.</p>
 </div>
+
 <!-- Ende der Benachrichtigung -->
