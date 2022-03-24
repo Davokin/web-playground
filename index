@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+
+<!--
+	CCL @ 2021 
+	Dominic Felber (Davokin)
+	70insign
+-->
+
+<html>
+	<head>
+		<title>sv0426 - Index</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="Index/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<h1>INDEX</h1>
+				<p><a href="https://duck.com"> Test-Link1</a><br />
+				<a href="https://duck.com"> Test-Link2</a></p>
+			</header>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="copyright">
+					<li>&copy; Dominic Felber</li>
+				</ul>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="Index/assets/js/main.js"></script>
+
+	</body>
+</html>
