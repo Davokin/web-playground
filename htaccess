@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !=443
+RewriteRule ^(.*)$ https://70insign.com/$1 [R=301,L]
+ErrorDocument 404 http://error.70insign.com/
